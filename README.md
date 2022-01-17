@@ -1,2 +1,2 @@
 # Unix-dotfiles
-hjlksjhghsl
+Tutaj są ustawienia
